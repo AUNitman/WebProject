@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lv2uYdnz85IYcr9CZLwrrO+x6yWmDCxab7Ws/trwbTzGazrQ4SMPOj0pWHgQHrCoMYVp1AQ3Tn6HGMfLSd8Z6A==",
+  "success": true,
+  "projectFilePath": "/home/dev/education/university/Web-разработка/WebProject/WebProject.csproj",
+  "expectedPackageFiles": [
+    "/home/dev/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.3/microsoft.aspnetcore.app.ref.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
